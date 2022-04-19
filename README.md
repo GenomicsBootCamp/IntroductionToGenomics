@@ -3,7 +3,8 @@ Hello everyone,
 
 My name is Gábor Mészáros, Assoc. Prof. at the University of Natural Resources and Life Sciences, Vienna, and the person behind the Genomics Boot Camp YouTube channel.
 
-Recently I made a series of videos called "Introduction to Genomics", and here I share the corresponding PowerPoint presentations. Feel free to use it in full or in part for your courses.No strings attached. If you like the materials, perhaps you could leave a comment directly in the comment section for any of the videos. This way I will have a bit of an overview of which institutions and countries it is being used. Also, it helps with the YouTube algorithm.
+Recently I made a series of videos called "Introduction to Genomics", and here I share the corresponding PowerPoint presentations. Feel free to use it in full or in part for your courses. No strings attached. 
+If you like the materials, perhaps you could leave a comment directly in the comment section for any of the videos. This way I will have a bit of an overview of which institutions and countries it is being used. Also, it helps with the YouTube algorithm.
 
 The video series provides an introduction to the general concept of genomics, with a strong focus on the use of single nucleotide polymorphism (SNP) marker data. Only general knowledge of biology and some basic knowledge of genetics is required. 
 
@@ -23,7 +24,7 @@ Links to videos, and to the overall playlist are also provided in the presentati
 
 Each video begins with a short recap of relevant info from previous videos and ends with a summary. These summaries were cut together into a stand-alone video: https://youtu.be/TS7oHeS6wWg
 
-For the full list see the Playlist: https://youtube.com/playlist?list=PLdf-U83sN48MXs3EegQv2ripoBhLw6q6C
+For the full list see the playlist: https://youtube.com/playlist?list=PLdf-U83sN48MXs3EegQv2ripoBhLw6q6C
 
 If you are interested in learning the PRACTICAL handling of SNP genotype data but do not have any previous experience, I suggest checking out my ebook and the related playlist "Genomic data analysis for beginners" on YouTube.
 
